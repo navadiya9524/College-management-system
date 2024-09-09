@@ -25,7 +25,7 @@ Publish time tables for students, faculty, and staff.
 Built using HTML, CSS, JavaScript.
 
 ### Backend
-Built using PHP.
+Built using PHP and MY SQL.
 
 ### Database
 Mysql for storing and managing data.
